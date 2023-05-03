@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1590233949 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\card.cpp
+	<sstream>
+	"card.h"
+
+1590233808 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\card.h
+	<string>
+
+1591290388 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\cardimplementations.cpp
+	"card.h"
+
+1590195267 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\combination.cpp
+	"combination.h"
+
+1590195119 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\combination.h
+	<string>
+	"card.h"
+
+1590154807 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\deck.cpp
+	<algorithm>
+	"deck.h"
+	"shuffler.h"
+
+1590103335 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\deck.h
+	"card.h"
+
+1591290979 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\shuffler.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1590188345 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\game.cpp
+	<iostream>
+	"game.h"
+
+1590188305 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\game.h
+	"table.h"
+	"deck.h"
+	"player.h"
+
+1590156176 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\table.h
+	"combination.h"
+
+1590965910 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\player.h
+	<string>
+	"hand.h"
+	"table.h"
+
+1590193397 c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\hand.h
+	<string>
+	"combination.h"
+
+1590193826 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\hand.cpp
+	<iostream>
+	<sstream>
+	"hand.h"
+	"card.h"
+	"combination.h"
+
+1590344815 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\player.cpp
+	<cstdlib>
+	<iostream>
+	"player.h"
+	"shuffler.h"
+
+1591294612 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\smartplayer.cpp
+	<cstdlib>
+	"player.h"
+	"shuffler.h"
+
+1590156172 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\table.cpp
+	"table.h"
+
+1605543147 source:c:\users\bill\desktop\thmmy\2ο Εξάμηνο\Αντικειμενοστρεφής Προγραμματισμός\tichu 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"table.h"
+	"deck.h"
+	"player.h"
+	"game.h"
+
